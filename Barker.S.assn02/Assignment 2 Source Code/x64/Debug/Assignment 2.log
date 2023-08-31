@@ -1,0 +1,4 @@
+﻿  Assignment 2.cpp
+C:\Users\erbab\Desktop\Barker asg2\Assignment 2\Assignment 2.cpp(19,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\erbab\Desktop\Barker asg2\Assignment 2\Assignment 2.cpp(97,111): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 2.vcxproj -> C:\Users\erbab\Desktop\Barker asg2\Assignment 2\x64\Debug\Assignment 2.exe
