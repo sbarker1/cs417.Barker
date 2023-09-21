@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Barker_ExamOneProbTwo", "Barker_ExamOneProbTwo.vcxproj", "{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Debug|x64.ActiveCfg = Debug|x64
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Debug|x64.Build.0 = Debug|x64
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Debug|x86.Build.0 = Debug|Win32
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Release|x64.ActiveCfg = Release|x64
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Release|x64.Build.0 = Release|x64
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Release|x86.ActiveCfg = Release|Win32
+		{AE4B1C43-BA73-41AD-8512-9BFA8C59C5AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DDBB08D-AF29-4BC4-B088-CC302B5C5C8F}
+	EndGlobalSection
+EndGlobal
