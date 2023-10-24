@@ -1,0 +1,3 @@
+Severity: WARNING, Service: messageWarning, Error Text: This is a testing warning message written to this file.
+Severity: ERROR, Service: messageError_Two, Error Text: This is the second error message today.
+Severity: UNRECOVERABLE, Service: UNRECOVERABLE_message, Error Text: message to test the unrecoverable feature on this app
